@@ -4,8 +4,6 @@ A quick guide to updating firmware, managing books, and downloading EPUBs for yo
 
 ## Updating Firmware
 
-There are two ways to update the firmware.
-
 ### Option 1: Update Directly from the Device
 
 > ⚠️ Connect your device to Wi-Fi via **Settings → System → WiFi Networks**.
