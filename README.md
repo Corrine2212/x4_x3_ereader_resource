@@ -30,7 +30,7 @@ You can install a Crossink firmware release directly from your browser using the
 ### Option 1: Transfer Using the SD Card
 
 1. Remove the SD card from the eReader and plug into laptop using an SD card reader.
-2. Drag epub files to the sd card or delete them from SD card.
+2. Drag epub files to the SD card or delete them from SD card.
 
 ### Option 2: Transfer Books Wirelessly
 
