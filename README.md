@@ -25,7 +25,7 @@ You can install a Crossink firmware release directly from your browser using the
 3. Click **Flash firmware**.
 4. Follow the on-screen instructions to complete the process.
 
-   [image]
+![Crossink firmware flashing options](images/Install a Crossink release directly from your browser over US81.png)
 
 > ⚠️ **Important:** It's best to remove the case before flashing the firmware. You'll need access to the device's reset button, which is blocked by the case.
 
@@ -71,4 +71,4 @@ Here are some places to find EPUB books.
 2. Find the links to Anna's Archive on the page.
 3. Follow a link to visit the site.
 
-![Crossink firmware flashing options](images/firmware-options.png)
+![Anna's Archive](./images/Anna's%20Archive.png)
